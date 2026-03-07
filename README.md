@@ -33,7 +33,10 @@ scanning-nmap to scan
 gaining acces-attack
 maintaning access-backdoo attack
 clearing tracks-to clear attacks
-tools
+tools:
+recon-ng
+c python,rust
+cpts
 
 
 
