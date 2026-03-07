@@ -38,6 +38,20 @@ recon -ng
 recon-ng
 c python,rust
 cpts
+help workspaces
+workspace 
+marketplace search
+reconig tools important
+next tool netdiscover
+to find ip ip a
+c+s+v
+netdiscover-r ip
+fing
+nslookup
+axfr record
+dnsrecon -d
+whois google.com
+whois lookup
 
 
 
