@@ -34,6 +34,7 @@ gaining acces-attack
 maintaning access-backdoo attack
 clearing tracks-to clear attacks
 tools:
+recon -ng
 recon-ng
 c python,rust
 cpts
