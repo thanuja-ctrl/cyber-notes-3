@@ -52,6 +52,8 @@ axfr record
 dnsrecon -d
 whois google.com
 whois lookup
+netcrafat
+have i been pawnend
 
 
 
