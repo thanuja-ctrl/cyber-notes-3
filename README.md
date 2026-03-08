@@ -134,7 +134,12 @@ physical layer("bits")
 (tool)readnotify (focusing on email using website )(read notify)
 search in chrome viewdns (find the location),autospy
 (tool)shellter use multi/handler,setpayload,
-exam ch master(important question) postive and negative           pip install sherlock -project
+exam ch master(important question) postive and negative   
+pip install sherlock -project
+VIEW DNS INFO
+ATOPSY
+
+
 
 
 
